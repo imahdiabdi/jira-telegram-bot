@@ -1,0 +1,11 @@
+# never commit real exports or secrets
+.env
+*.env
+*credentials*.json
+*-real.json
+*.private.json
+.DS_Store
+
+config.private.json
+config.json
+dist/
