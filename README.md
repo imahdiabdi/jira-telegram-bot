@@ -26,8 +26,6 @@ An [n8n](https://n8n.io) workflow that puts an AI project assistant inside a Tel
 | **Access control** | Roles (`admin`, `lead`, `member`, `guest`). Unknown users become guests: their requests are forwarded to the admin and only reach Jira after approval |
 | **Guided mode** | A step-by-step wizard (assignee → label → priority → sprint → estimate) for people who prefer buttons over typing |
 
-![Task preview](assets/screenshot-1-preview.png)
-
 ## How it works
 
 ![Architecture](assets/architecture.png)
