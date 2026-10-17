@@ -6,9 +6,9 @@
 
 An [n8n](https://n8n.io) workflow that puts an AI project assistant inside a Telegram chat. Built for a Persian-speaking product owner who wanted to create and manage Jira tickets from a phone in seconds, without opening Jira.
 
-[![Watch the 86-second demo](assets/demo-poster.png)](assets/demo.mp4)
+https://github.com/user-attachments/assets/86470e46-313f-4485-92c5-ae30ce4e1831
 
-> ▶ Click the image to watch the demo ([`assets/demo.mp4`](assets/demo.mp4)). The demo and screenshots use **sample data** and are illustrative, not a real team's Jira. The video is in English; the shipped bot replies in Persian.
+> The demo and screenshots use **sample data** and are illustrative, not a real team's Jira. The video is in English; the shipped bot replies in Persian.
 
 ## What it does
 
